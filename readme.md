@@ -63,7 +63,7 @@ descritto sopra. In particolare dovrete assicurarvi che la vostra soluzione abbi
    microphone, onion, pillow, potato, pond e pool. Potete diecidere voi se lavorare con immagini 256x256 o 28x28. 
 3. Dovete scrivere una classe pytorch Dataset da utilizzare nel Dataloader, come avete visto nelle esercitazioni 
    precedenti.
-4. Dovete arrivare ad avere un sistema addestrato che non sia on overfitting o underfitting. 
+4. Dovete arrivare ad avere un sistema addestrato che non sia in overfitting o underfitting. 
 4. Dovete dimostrare l'esplorazione di almeno due iperparametri, tra cui la learning rate, con esplorazione randomica.
 5. Dovrete effettuare una failure analysis finale per essere capaci di discutere cosa il vostro sistema sa, o non sa 
    fare. 
