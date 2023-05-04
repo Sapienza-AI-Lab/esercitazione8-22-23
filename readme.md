@@ -27,7 +27,7 @@ L'esercizio proposto per questo laboratorio è l'addestramento di un classificat
 l'eccellente [The Quick, Draw! Dataset](https://quickdraw.withgoogle.com/data), che è composto interamente da 
 disegni di questo tipo:
 
-![](/home/thomas/Documents/Sapienza/Didattica/AI-Lab/code/22-23/esercitazione8-22-23/sample_sketches.png)
+![](sample_sketches.png)
 
 Come potete leggere dalla [descrizione su github](https://github.com/googlecreativelab/quickdraw-dataset), 
 questi disegni sono stati prodotti tramite un gioco (che potete anche giocare cliccando 
